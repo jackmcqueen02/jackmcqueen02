@@ -1,10 +1,7 @@
-## plots plots plots!!
+##Heres some plots from my current project!!
 ![signalrelativetobkg1](https://github.com/user-attachments/assets/23275d7e-5c73-46d9-bf5d-624fcfe14183)
 ![sigrelativetobkg2](https://github.com/user-attachments/assets/58eba264-c175-4560-a7c1-6ed39d401993)
 
-![carbonplot1](https://github.com/user-attachments/assets/d8f546a4-aa65-4c46-81fd-0ead3849caf9)
-
-![carbonplot2](https://github.com/user-attachments/assets/f86c9be7-9f4b-40bc-bc45-e6f9051bc6f6)
 
 <!--
 **jackmcqueen02/jackmcqueen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
