@@ -1,8 +1,10 @@
-# My current project 🔭
+# My current MSci Project 🔭
 [Current Project](https://github.com/LHCb-UII-Masters-Project/LHCb-Analysis-Code) 
 ![signalrelativetobkg1](https://github.com/user-attachments/assets/23275d7e-5c73-46d9-bf5d-624fcfe14183)
 ![sigrelativetobkg2](https://github.com/user-attachments/assets/58eba264-c175-4560-a7c1-6ed39d401993)
 
+# Hobby projects
+![carbon_emmision_latex](https://github.com/user-attachments/assets/39a461c3-7a24-49d7-839d-4f6d32c0ff0d)
 
 
 <!--
