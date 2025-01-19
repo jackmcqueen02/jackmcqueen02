@@ -1,6 +1,8 @@
 # My current MSci Project 🔭
 [Current Project](https://github.com/LHCb-UII-Masters-Project/LHCb-Analysis-Code) 
 
+[BVelo50vs200Prelim.pdf](https://github.com/user-attachments/files/18470484/BVelo50vs200Prelim.pdf)
+[50PrelimFit.pdf](https://github.com/user-attachments/files/18470487/50PrelimFit.pdf)
 
 
 # Hobby projects
